@@ -1,6 +1,6 @@
-# Error in setTimeout
+# setTimeout에서의 에러
 
-What do you think? Will the `.catch` trigger? Explain your answer.
+`.catch`가 트리거가 된다고 생각하시나요? 답을 설명해주세요.
 
 ```js
 new Promise(function(resolve, reject) {
